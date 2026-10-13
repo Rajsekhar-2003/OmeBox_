@@ -164,7 +164,7 @@ This GitHub repository **showcases** the OmeBox website, its features, technolog
 
 ## 📜 License
 
-This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
+This repository showcases **OmeBox.com**, an online text and file-sharing platform. Visit [OmeBox.com](https://omebox.com) to explore the website.
 
 ---
 
