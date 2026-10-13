@@ -5,7 +5,6 @@
 ### Fast Text & File Sharing — Share text, code snippets, and files online with ease.
 
 [![Live Website](https://img.shields.io/badge/🌐_Live-omebox.com-blue?style=for-the-badge)](https://omebox.com)
-[![License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)](LICENSE)
 [![Made with](https://img.shields.io/badge/made%20with-HTML%20%7C%20CSS%20%7C%20JS-orange?style=for-the-badge)]()
 [![Backend](https://img.shields.io/badge/backend-FastAPI%20%2B%20MongoDB-009688?style=for-the-badge)]()
 
